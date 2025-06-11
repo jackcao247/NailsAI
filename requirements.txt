@@ -1,0 +1,8 @@
+numpy
+PYL
+pycocotools
+segmentation_models_pytorch
+torch
+torchmetrics
+albumentation
+cv2
